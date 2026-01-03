@@ -1,5 +1,3 @@
-# ts-migrate
-
 Repository de migration vers TypeScript et Go
 pour une plateforme de cx-banger.
 
